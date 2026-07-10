@@ -154,7 +154,7 @@ Road-Accident-Severity-Prediction-ML-Tableau/
 
 ## 📷 Tableau Dashboard
 
-(Add dashboard screenshot here)
+![Tableau Dashboard](Tableau_Dashboard.png)
 
 ---
 
